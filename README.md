@@ -1,0 +1,4 @@
+# 1Dconvulation-Model
+
+
+https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/
